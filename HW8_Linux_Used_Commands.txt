@@ -1,0 +1,28 @@
+cd
+mkdir scalefocus
+cd scalefocus
+cat > friends.txt
+more friends.txt
+
+mv friends.txt bestfriends.txt
+
+cp bestfriends.txt sysadmins.txt 
+
+ls b*.txt
+
+wc -c sysadmins.txt 
+
+cat >  cars.txt
+more cars.txt
+
+wc -c sysadmins.txt
+
+cd scalefocus
+mkdir tmp
+cp cars.txt tmp
+
+ls *.txt
+
+mv /tmp/cars.txt /tmp/vehicles.txt
+
+more /etc/passwd
