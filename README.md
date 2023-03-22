@@ -11,4 +11,3 @@ Lecture_Labs contains all the labs and assignments that were completed during th
 
 
 
-![SF](https://user-images.githubusercontent.com/125913893/227058893-0aa36a3a-b71c-42c5-8ec9-e58a71a4101b.png)
